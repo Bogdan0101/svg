@@ -1,0 +1,34 @@
+*,
+html,
+body {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	box-sizing: border-box;
+	font-size: 0;
+}
+.bg1 {
+	width: 100vw;
+	height: 100vh;
+	background-color: rgb(136, 232, 245);
+}
+.bg2 {
+	width: 100vw;
+	height: 320px;
+	fill: blue;
+}
+.bg3 {
+	width: 100vw;
+	height: 100vh;
+	fill: rgb(246, 250, 39);
+}
+.fff {
+	fill: #fff;
+}
+.bg1 polygon {
+	fill: rgb(41, 9, 9);
+}
+.red {
+	fill: red;
+}
