@@ -1,3 +1,3 @@
 # svg
  
-![img](https://github.com/Bogdan0101/svg/img.png)
+![img](https://github.com/Bogdan0101/svg/img.jpg)
